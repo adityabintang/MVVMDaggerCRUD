@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVVMDaggerCRUD</string>
+    <string name="tambah_data_user">Tambah Data User</string>
+    <string name="alamat">Alamat</string>
+    <string name="nama">Nama</string>
+    <string name="agama">Agama</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="tambah_produk">Tambah Produk</string>
+    <string name="hobi">Hobi</string>
+</resources>
